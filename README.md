@@ -1,3 +1,3 @@
 # addressBook
 
-Secure Comunication
+Secure Federated Comunication
