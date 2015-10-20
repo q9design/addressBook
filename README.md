@@ -1,3 +1,3 @@
 # addressBook
 
-Secure federated comunication abstraction.
+Unified federated comunication abstraction.
